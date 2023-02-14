@@ -12,4 +12,5 @@
 
 
 
-[![lucas viegas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasviegas1017&show_icons=true&theme=dracula)
+
+[lucas viegas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasviegas1017&show_icons=true&theme=dracula)
