@@ -4,6 +4,7 @@
 
 
  -✔ No momento não estou trabalhando
+ 
  -🖥Engeharia de redes de comunicação
 
 
