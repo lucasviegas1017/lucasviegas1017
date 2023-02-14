@@ -3,8 +3,7 @@
 
 
 
- -✔ No momento não estou trabalhando
- 
+ -No momento não estou trabalhando
  -🖥Engeharia de redes de comunicação
 
 
