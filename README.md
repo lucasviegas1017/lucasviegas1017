@@ -4,7 +4,7 @@
 
 
 - ✔ No momento não estou trabalhando
-- 💻🖥Engeharia de redes de comunicação
+- 🖥Engeharia de redes de comunicação
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucas._viegas)
